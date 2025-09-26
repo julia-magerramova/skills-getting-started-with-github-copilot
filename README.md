@@ -14,3 +14,13 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+---
+
+## Creating a new branch
+
+You can create and publish a new branch named `accelerate-with-copilot` by running the following commands in your terminal:
+
+```bash
+git checkout -b accelerate-with-copilot
+git push -u origin accelerate-with-copilot
+```
